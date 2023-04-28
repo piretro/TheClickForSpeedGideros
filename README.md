@@ -4,6 +4,8 @@ Mini game in Gideros LUA based on the published mobile game by Nicola Danese
 Small project to demonstrate lua Gideros open source Framework capabilities: 
 49 lines of code and 1558 characters, some of which are comments, still open to optimization.
 
+Click on the white square as soon as it appears, and test how fast you are!
+
 Learn more about Gideros here: 
 http://giderosmobile.com/
 
